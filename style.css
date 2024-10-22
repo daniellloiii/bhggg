@@ -1,12 +1,12 @@
 :root {
-    --text-color: #001b3b; /* Cor do texto */
+    --text-color: #000000; /* Cor do texto */
     --card-front-color: #000000; /* Cor do fundo do cartão */
-    --card-back-color: #28005c; /* Cor de fundo da resposta */
+    --card-back-color: #5c0000; /* Cor de fundo da resposta */
     background-color: rgb(0, 0, 0);
 }
 
 body {
-    background-image: url("img30.jpg");
+    background-image: url("IMG2.webp");
     background-size: cover;
     font-family: 'Bai Jamjuree', sans-serif;
 }
@@ -68,7 +68,7 @@ body {
 .cartao__conteudo__resposta {
     transform: rotateY(180deg); /* Rotaciona a resposta */
     background-color: var(--card-back-color); /* Cor de fundo da resposta */
-    background-image: url('images.webp'); /* Adiciona a imagem de fundo */
+    background-image: url('imG4.webp'); /* Adiciona a imagem de fundo */
     background-size: cover; /* Faz a imagem cobrir todo o cartão */
     background-position: center; /* Centraliza a imagem */
 }
