@@ -1,7 +1,7 @@
 :root {
-    --text-color: #000000; /* Cor do texto */
+    --text-color: #ffffff; /* Cor do texto */
     --card-front-color: #000000; /* Cor do fundo do cartão */
-    --card-back-color: #5c0000; /* Cor de fundo da resposta */
+    --card-back-color: #ffffff; /* Cor de fundo da resposta */
     background-color: rgb(0, 0, 0);
 }
 

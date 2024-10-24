@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Dexter',
+    'quem é ele?',
+    'ele é um asassino profissional.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Dexter',
+    'um assasino frio?',
+    'ele não Tem ressentimentos.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Dexter',
+    'Segue um código?',
+    'código de seu pai adotivo.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Dexter',
+    'Ele ama sangue..',
+    'Ele é o Dexter.'
 )
